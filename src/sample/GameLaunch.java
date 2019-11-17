@@ -57,10 +57,10 @@ public class GameLaunch {
             titlesAir[1] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\recycle.png");
             titlesAir[2] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower1.png");
             titlesAir[3] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower2.png");
-            titlesAir[4] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower3.png");
-            titlesAir[5] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower4.png");
-            titlesAir[6] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower5.png");
-            titlesAir[7] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower6.png");
+            titlesAir[4] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower4.png");
+            titlesAir[5] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\NormalTower.png");
+            titlesAir[6] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\Machinetower.png");
+            titlesAir[7] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\SniperTowerTower.png");
             titlesAir[8] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\tower7.png");
 
             titlesIcon[0] = Draw.loadImage("C:\\Users\\QD\\Documents\\TowerDefense(Demo)\\cell.png");
